@@ -4,3 +4,4 @@ print(a+b)
 c,d = 2, 3.14 #wielokrotna deklaracja zmiennych
 wynik=c+d
 print(wynik)
+print("test zmiana w pliku")
